@@ -5009,15 +5009,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\itlocal\\.nuget\\packages\\": {}
+    "C:\\Users\\jsoto\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "RelatedProductsAppShopify",
       "projectName": "RelatedProductsAppShopify",
-      "projectPath": "C:\\Users\\itlocal\\OneDrive - MAS S.A.S\\Documentos\\UiPath\\GitHub\\ProcesoAutomatizacionRelatedProducts\\RelatedProductsAppShopify\\.local",
-      "packagesPath": "C:\\Users\\itlocal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itlocal\\OneDrive - MAS S.A.S\\Documentos\\UiPath\\GitHub\\ProcesoAutomatizacionRelatedProducts\\RelatedProductsAppShopify\\.local"
+      "projectPath": "C:\\Users\\jsoto\\OneDrive - MAS S.A.S\\Documentos\\UiPath\\RelatedProductsAppShopify\\.local",
+      "packagesPath": "C:\\Users\\jsoto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jsoto\\OneDrive - MAS S.A.S\\Documentos\\UiPath\\RelatedProductsAppShopify\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5043,7 +5043,7 @@
             "version": "[21.4.3, 21.4.3]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\itlocal\\AppData\\Local\\UiPath\\app-21.4.2\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\jsoto\\AppData\\Local\\UiPath\\app-21.4.3\\runtime.json"
       }
     }
   },
